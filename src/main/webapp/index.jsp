@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="Content/login.css">
 </head>
 <body>
-    <h3>Welcome to v1.3 </h3>
+    <h3>Welcome to v1.4 </h3>
     <div class="container-fluid full-width-container">
         <section class="container-fluid">
             <div class="row">
